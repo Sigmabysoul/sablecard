@@ -1,0 +1,90 @@
+{
+    "project name": "sablecard.com",
+    "perpose": "is file ma demo text ha taki baar baar hum logo ko figma ma jaka copy na krna para",
+    "Data": [
+        {
+            "navbar": [
+                "Credit",
+                "Debit",
+                "App",
+                "Learn"
+            ],
+            "header": "The fastest most premium path to financial freedom",
+            "FDIC": "Banking services provided by Coastal Community Bank, Member FDIC, pursuant to license by Mastercard International Inc."
+        },
+        {
+            "section2": {
+                "top-header": "400,000 ACCOUNTS & COUNTING",
+                "header": "No hidden fees. No credit checks. No more barriers to building credit.",
+                "boards": "Get a secured credit card and bank account in 5 minutes.",
+                "boards-2": "No credit history, credit check, or minimum deposit required.",
+                "trophy": "The only premium card for building credit.",
+                "trophy-2": "2% unlimited cash back on your favorite brands, 2X first year cash back match, premium benefits and more!",
+                "explorer": "Build your U.S. credit",
+                "explorer-2": "We believe in forming positive habits. Build your U.S. credit with Sable",
+                "web": "Bank like a global citizen with Sable.",
+                "web-2": "Start building credit before you even enter the country. Non-U.S. citizens can apply with their passport and visa."
+            }
+        },
+        {
+            "section4": {
+                "header": "Get a bank account & debit card in five minutes."
+            }
+        },
+        {
+            "section5": {
+                "h1": "Earn 2% cash back on favorite brands",
+                "p1": "Earn 2%1 cash back on favorite brands, 1%1 cashback on all purchases, and a 2x cashback match in your first year! Get premium benefits and much more.",
+                "h2": "Moving to the U.S.? No SSN required",
+                "p2": "Start building credit before you even enter the country. Sign up with your international address, passport & visa instead**.",
+                "h3": "Get help from a real person",
+                "p3": "When you’ve got questions about your finances, get multilingual customer support anytime you need from direct in-app chat, email, phone, and our site FAQs."
+            }
+        },
+        {
+            "section6": {
+                "h1": "Compare Sable . Compare Sable",
+                "p1": "Sable Secured Credit & Debit Card",
+                "p2": "Sable Debit Card",
+                "Blocks": [
+                    "No monthly fees or minimum balance",
+                    "Deposits FDIC insured up to $250,000",
+                    "Rewards, cash back & card perks",
+                    "Send checks & transfer money for free",
+                    "Build credit history from Day 1",
+                    "No credit check required for sign up",
+                    "Cost per year"
+                ]
+            }
+        },
+        {
+            "section7": {
+                "commnet1": "Fantastic customer service. I shifted from a traditional bank to Sable [and] Sable’s customer service helped me answer all the questions that I needed to switch.",
+                "by1": "K Oiwake",
+                "comment2": "The best bank for immigrants in the US. Thank you Sable! I have nothing but good things to say about you!",
+                "by2": "E Berhe"
+            }
+        },
+        {
+            "section8": {
+                "header": "Join over 400,000 acconts",
+                "disc": "Download Sable: effortless, borderless banking for a more connected world."
+            }
+        },
+        {
+            "footer": {
+                "copyright": "© Sable Money Inc, all rights reserved.",
+                "terms": "Privacy policy | Terms and conditions",
+                "disc": "Banking services provided by Coastal Community Bank, Member FDIC, pursuant to license by Mastercard International Inc. Sable account is FDIC-insured up to $250.000 per depositor through Coastal Community Bank, Member FDIC. If you are not a U.S. citizen, you can apply with your passport and U.S. Visa. Please note: you must submit an SSN once you receive one. If you are a U.S. citizen, SSN is required to open a bank account. Double cashback bonus (through 12/2022)"
+            },
+            "links": [
+                "Please see www.sablecard.com/terms-and-conditions#creditrnb for terms and conditions. Some exclusions apply.",
+                "Please see www.sablecard.com/terms-and-conditions for terms and conditions.",
+                "This benefit is provided by MasterCard. Benefits are subject to terms, conditions and limitations, including limitations on the amount of coverage. Please see the terms and conditions.",
+                "Sable estimated annual value",
+                "Sable product comparisons",
+                "† Sable Remittance Best Rate Guarantee Terms"
+            ]
+        }
+    ]
+}
