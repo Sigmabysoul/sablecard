@@ -1,0 +1,35 @@
+@import url(./Components/Loader.css);
+@import url(./Sections/Section-1.css);
+@import url(./Sections/Section-2.css);
+@import url(./Sections/Section-3.css);
+@import url(./Sections/Section-4.css);
+@import url(./Sections/Section-5.css);
+@import url(./Sections/Section-6.css);
+@import url(./Sections/Section-7.css);
+@import url(./Sections/Section-8.css);
+@import url(./Sections/Section-9.css);
+@import url(./Responsiveness/Desktop.css);
+@import url(./Responsiveness/Laptop.css);
+@import url(./Responsiveness/Tablet.css);
+@import url(./Responsiveness/Mobile.css);
+
+
+/* lg	@media screen and (min-width: 1024px)	≥1024px  */
+
+:root{
+    --white-: #ffffff;
+    --black-: #000000;
+    --decribtion-text-: #A0A1A8;
+    --light-blue-: #6FDBD4;
+    --grey-bg-: #73757B;
+    --light-black-bg-: #1C1C1E;
+    --inner-bg-: #EBEBF1;
+}
+
+body{
+    display: grid;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    background: var(--inner-bg-);
+}
