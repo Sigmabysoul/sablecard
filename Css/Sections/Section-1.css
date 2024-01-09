@@ -1,0 +1,9 @@
+.sec1 {
+  background: var(--black-);
+}
+.bg-img{
+  position: absolute;
+  width: 75%;
+  height: 100%;
+  z-index: 0;
+}
